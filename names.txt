@@ -1,2 +1,4 @@
 Hello this is Soham.
 This the next line added. 
+
+This line was added in the files itself rather then the vim command in the git bash.
